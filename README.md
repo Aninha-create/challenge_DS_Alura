@@ -36,7 +36,24 @@ Este desafio faz parte do processo de certificação em **Data Science** pela [A
 
 ---
 
-## 📊 Resultados
+## 📈 Resultados Visuais
+
+### 💰 Faturamento por Loja
+![Gráfico de Faturamento](imagens/grafico_faturamento_lojas.png)
+
+### 📊 Porcentagem de Vendas por Loja
+![Gráfico de Porcentagem](imagens/grafico_porcentagem_lojas.png)
+
+### ⭐ Avaliação Média dos Clientes por Loja
+![Gráfico de Avaliações](imagens/grafico_avaliações_lojas.png)
+
+### 📦 Frete Médio por Loja
+![Gráfico de Frete](imagens/grafico_frete_lojas.png)
+
+---
+
+
+## 📊 Análise final
 
 - A **Loja 4** apresentou o **menor faturamento da rede**, apesar de possuir avaliação satisfatória e o frete mais competitivo.
 - A **Loja 1**, embora líder em faturamento, possui a **pior avaliação média** e o **frete mais caro**, indicando risco de perda de fidelização.
